@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.foo {
+    background-color: rgb(213, 124, 160);
+    color: rgb(0, 0, 0);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n2 {
+    color: rgb(48, 68, 181);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.foo#n3 {
+    font-size: 24px;
+}
+
+#n4 {
+    background-color: rgb(70, 239, 101);
+    font-weight: bold;
+    font-size: 24px;
+}
