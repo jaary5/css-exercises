@@ -1,14 +1,14 @@
-.fonts {
+.bl, .yl {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-#clr_bl {
+.bl {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
 
-#clr_yl {
+.yl {
     background-color: rgb(255, 255, 0);
     color: rgb(0, 0, 0);
 }
